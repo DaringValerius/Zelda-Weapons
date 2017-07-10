@@ -1,0 +1,9 @@
+{
+  "name" : "ZeldaWeaponsMod",
+  "metadata" : {
+    "displayName" : "Zelda Weapons Mod",
+    "author" : "AJStri",
+    "description" : "A work-in-progress mod to add weapons from The Legend of Zelda.",
+    "support_url" : "WIP"
+  }
+}
