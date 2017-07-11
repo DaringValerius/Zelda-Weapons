@@ -18,7 +18,6 @@
   "animation" : "/items/active/weapons/bow/bow.animation",
   "animationParts" : {
     "bow" : "travellersbow.png"
-    // TODO
   },
   "animationCustom" : {
     "animatedParts" : { "parts" : { "bow" : { "properties" : {

@@ -3,5 +3,10 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": { "item": "travellersbow" }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": { "item": "ceremonialtrident" }
     }
 ]
