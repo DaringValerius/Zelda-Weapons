@@ -8,5 +8,10 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": { "item": "ceremonialtrident" }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": { "item": "lightscaletrident" }
     }
 ]
