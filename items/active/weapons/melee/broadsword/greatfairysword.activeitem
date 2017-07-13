@@ -12,12 +12,12 @@
     "twoHanded" : true,
     "itemTags" : ["weapon","melee","broadsword"],
 
-    "inventoryIcon" : "greatfairysword.png",
+    "inventoryIcon" : "images/greatfairysword.png",
 
     "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
     "animationParts" : {
         "handle" : "",
-        "blade" : "greatfairysword.png"
+        "blade" : "images/greatfairysword.png"
     },
     "animationCustom" : { },
 
