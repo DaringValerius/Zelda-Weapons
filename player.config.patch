@@ -13,5 +13,10 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": { "item": "lightscaletrident" }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": { "item": "greatfairysword" }
     }
 ]
